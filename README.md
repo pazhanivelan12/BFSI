@@ -132,22 +132,4 @@ import numpy as np
 
 ---
 
-## How to Run
 
-1. Clone or download this repository.
-2. Place `Banking.csv` in the root directory (or update the file path in the notebook).
-3. Open `working.ipynb` in **Jupyter Notebook**, **JupyterLab**, or **Google Colab**.
-4. Run all cells in order.
-
----
-
-## Author
-
-**Pazhani**  
-Business Analytics | BFSI Domain | SQL · Power BI · Python · Excel
-
----
-
-## License
-
-This project is for educational and portfolio purposes only. The dataset used is synthetic/sample data.
